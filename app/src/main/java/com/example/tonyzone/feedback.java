@@ -27,6 +27,6 @@ public class feedback extends AppCompatActivity {
         toast.show();
     }
     public void displayToastMsg(View view) {
-        toastMsg("THANK YOU FOR FEEDBACK");
+        toastMsg("THANK YOU FOR FEEDBACK TonyZone");
     }
 }
